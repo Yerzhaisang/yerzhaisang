@@ -28,16 +28,6 @@
 
 ---
 
-## 📂 Pinned Repositories  
-
-<p align="center">
-  <a href="https://github.com/opensearch-project/opensearch-py-ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=opensearch-project&repo=opensearch-py-ml&theme=tokyonight" alt="OpenSearch-Py-ML" />
-  </a>
-</p>  
-
----
-
 ## 🤝 Let's Connect!  
 📫 **Email:** [tasqali1697@gmail.com](mailto:tasqali1697@gmail.com)  
 🌐 **Portfolio:** *Coming Soon*  
