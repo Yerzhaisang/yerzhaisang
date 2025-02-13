@@ -47,12 +47,6 @@
   </a>
 </p>  
 
-<p align="center">
-  <a href="https://github.com/Yerzhaisang/k-das-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yerzhaisang&repo=k-das-system&theme=tokyonight" alt="K-DAS System" />
-  </a>
-</p>  
-
 ---
 
 ## 🤝 Let's Connect!  
