@@ -3,6 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yerzhaisang/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yerzhaisang)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/Yerzhaisang)  
 [![Email](https://img.shields.io/badge/Email-tasqali1697%40gmail.com-red?logo=gmail)](mailto:tasqali1697@gmail.com)  
 
 ---
